@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": ["Strapi", "Strapi 5", "Plugin", "Preview Button", "Before Build"],
   "type": "commonjs",
   "exports": {
